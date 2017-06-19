@@ -1,4 +1,12 @@
-# bloodSegmentation  
+# Blood Segmentation tutorial with Keras from less amount of data:
+
+# Data Augmentation:   
+Keras Image preprocessing to generate data from few images sample code with comments "WBC-Keras-DataGenerator.ipynb".
+
+
+# Atrous Model:  
+
+# Unet Model:  
 
 Segmentation and counting of white blood cells.
 
