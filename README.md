@@ -5,9 +5,9 @@ Keras Image preprocessing to generate data from few images sample code with comm
 
 
 # Atrous Model:  
-Atrous motel to increase receptive field.
+An Atrous model (to increase receptive field) with upsampling.
 # Unet Model:  
-Standard Unet model is used in keras.
+Standard Unet model implemented in keras.
 
 Segmentation and counting of white blood cells.  
 
